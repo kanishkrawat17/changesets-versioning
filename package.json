@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kanishkrawat17/changesets-versioning/issues"
   },
-  "homepage": "https://github.com/kanishkrawat17/changesets-versioning#readme"
+  "homepage": "https://github.com/kanishkrawat17/changesets-versioning#readme",
+  "dependencies": {
+    "@changesets/cli": "^2.27.1"
+  }
 }
